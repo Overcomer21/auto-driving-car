@@ -4,7 +4,7 @@ $ProjectFolder = "$ProjectRoot\auto-driving-car"
 autocar-driving-test
 $GitRepo = "https://github.com/Overcomer21/auto-driving-car.git"
 $ExtractFolder = "$ProjectRoot\extract"
-$ZipFile = "$ProjectFolder\autocar-driving-test.zip"
+$ZipFile = "$ProjectFolder\auto-driving-car.zip"
 $LogFile = "$ProjectRoot\setup_log.txt"
 
 # Function to write output to both console and log file
