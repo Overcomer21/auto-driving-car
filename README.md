@@ -70,7 +70,7 @@ The PowerShell Script Explanation:
 The PowerShell script will automatically execute the necessary steps to run and test the project:
 a.	Automated create Project Folders
 b.	Automated clone source code from GitHub repos:
-https://github.com/Overcomer21/autocar-driving-test.git
+https://github.com/Overcomer21/auto-driving-car.git
 c.	Automated installation Pre-requisite Components
 i.	Node.js
 ii.	TypeScript
