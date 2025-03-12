@@ -1,7 +1,7 @@
 # Define project directory
 $ProjectRoot = "C:\Yongky_Assignment\auto_driving_project"
 $ProjectFolder = "$ProjectRoot\auto-driving-car"
-autocar-driving-test
+auto-driving-car
 $GitRepo = "https://github.com/Overcomer21/auto-driving-car.git"
 $ExtractFolder = "$ProjectRoot\extract"
 $ZipFile = "$ProjectFolder\auto-driving-car.zip"
